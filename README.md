@@ -19,3 +19,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 5: [Inform 7](http://inform7.com/), a natural-language-based domain specific language for writing interactive fiction
 * Day 6: [x86-64 assembly](https://en.wikipedia.org/wiki/X86-64), as low-level as I'm willing to get in a day
 * Day 7: [AWK](https://en.wikipedia.org/wiki/AWK) a text processing tool often used in shell scripts
+* Day 8: [COBOL](https://en.wikipedia.org/wiki/COBOL), a verbose old language designed for "business use"
