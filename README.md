@@ -21,3 +21,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 7: [AWK](https://en.wikipedia.org/wiki/AWK), a text processing tool often used in shell scripts
 * Day 8: [COBOL](https://en.wikipedia.org/wiki/COBOL), a verbose old language designed for "business use"
 * Day 9: [TCL](https://www.tcl.tk/about/language.html), a homoiconic scripting language where everything is a string
+* Day 10: [J](https://www.jsoftware.com/#/), a successor to APL with the same concepts but using ASCII identifiers
