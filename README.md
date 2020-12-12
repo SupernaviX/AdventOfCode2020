@@ -23,3 +23,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 9: [TCL](https://www.tcl.tk/about/language.html), a homoiconic scripting language where everything is a string
 * Day 10: [J](https://www.jsoftware.com/#/), a successor to APL with the same concepts but using ASCII identifiers
 * Day 11: [Lua](https://www.lua.org/), a lightweight prototype-based embeddable scripting language
+* Day 12: [Factor](https://factorcode.org/), a stack-based language with types that supports functional programming
