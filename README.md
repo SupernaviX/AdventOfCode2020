@@ -25,3 +25,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 11: [Lua](https://www.lua.org/), a lightweight prototype-based embeddable scripting language
 * Day 12: [Factor](https://factorcode.org/), a stack-based language with types that supports functional programming
 * Day 13: [Perl](https://www.perl.org/), a concise scripting language heavily inspired by shell scripts.
+* Day 14: [Zig](https://ziglang.org/), a low-level programming language meant to compete directly with C.
