@@ -28,3 +28,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 14: [Zig](https://ziglang.org/), a low-level programming language meant to compete directly with C.
 * Day 15: [Crystal](https://crystal-lang.org/), a very user-friendly language inspired by Ruby, with static typing
 * Day 16: [Prolog](https://www.swi-prolog.org/), the most popular and widely used logic programming language
+* Day 17: [Fortran](https://fortran-lang.org/), an extremely efficient language useful for array-oriented programming
