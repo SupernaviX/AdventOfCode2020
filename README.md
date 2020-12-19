@@ -29,3 +29,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 15: [Crystal](https://crystal-lang.org/), a very user-friendly language inspired by Ruby, with static typing
 * Day 16: [Prolog](https://www.swi-prolog.org/), the most popular and widely used logic programming language
 * Day 17: [Fortran](https://fortran-lang.org/), an extremely efficient language useful for array-oriented programming
+* Day 18: [Clojure](https://clojure.org/), a popular JVM language in the Lisp family
