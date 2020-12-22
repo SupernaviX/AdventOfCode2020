@@ -32,3 +32,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 18: [Clojure](https://clojure.org/), a popular JVM language in the Lisp family
 * Day 19: [Erlang](https://www.erlang.org/), a highly concurrent language useful for distributed applications
 * Day 20: [Smalltalk](https://www.gnu.org/software/smalltalk/manual/html_node/Overview.html), a very influential early OOP language with an active following today
+* Day 21: [Elixir](https://elixir-lang.org/), a functional language built on top of the Erlang VM, with Ruby-like syntax and powerful metaprogramming features
