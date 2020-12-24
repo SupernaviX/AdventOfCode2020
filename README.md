@@ -34,3 +34,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 20: [Smalltalk](https://www.gnu.org/software/smalltalk/manual/html_node/Overview.html), a very influential early OOP language with an active following today
 * Day 21: [Elixir](https://elixir-lang.org/), a functional language built on top of the Erlang VM, with Ruby-like syntax and powerful metaprogramming features
 * Day 22: [Julia](https://julialang.org/), a high-performance dynamic language supporting multiple dispatch, metaprogramming, and lots of useful syntactic sugar.
+* Day 23: [OCaml](https://ocaml.org/), a performant strongly-typed language that supports functional and imperative programming.
