@@ -36,3 +36,4 @@ To run the code from a particular day, check the README in that day's folder.
 * Day 22: [Julia](https://julialang.org/), a high-performance dynamic language supporting multiple dispatch, metaprogramming, and lots of useful syntactic sugar.
 * Day 23: [OCaml](https://ocaml.org/), a performant strongly-typed language that supports functional and imperative programming.
 * Day 24: [Chicken Scheme](http://call-cc.org/), an extremely minimal but portable scheme dialect
+* Day 25: [Futhark](https://futhark-lang.org/), a small language designed to compile to efficient GPU or multithreaded CPU code
